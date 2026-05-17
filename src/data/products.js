@@ -312,7 +312,7 @@ export const heroSlides = [
   },
   {
     id: 2,
-    image: "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=1920&q=80",
+    image: "https://images.unsplash.com/photo-1541643600914-78b084683601?w=1200",
     title: "Signature",
     subtitle: "Fragrances",
     description: "Scents that tell your story. Experience our curated collection of luxury perfumes.",

@@ -73,7 +73,7 @@ export const products = [
     sizes: ["30ml", "50ml", "100ml"],
     colors: ["Classic"],
     images: [
-      "https://images.unsplash.com/photo-1541643600914-78a084683566?w=800&q=80",
+      "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?w=800&q=80",
       "https://images.unsplash.com/photo-1587017539504-67cfbddac569?w=800&q=80",
     ],
     isNew: true,
@@ -89,8 +89,8 @@ export const products = [
     sizes: ["30ml", "50ml", "100ml"],
     colors: ["Rose Gold"],
     images: [
+      "https://images.unsplash.com/photo-1541643600914-78a084683566?w=800&q=80",
       "https://images.unsplash.com/photo-1594035910387-fea47794261f?w=800&q=80",
-      "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?w=800&q=80",
     ],
     isNew: false,
     isBestseller: true,
@@ -199,7 +199,7 @@ export const products = [
     category: "jewelry",
     price: 12500,
     description: "A stunning cascade of brilliant-cut diamonds set in 18k white gold. The graduated design creates a waterfall effect that catches light from every angle. Total diamond weight: 5.2 carats.",
-    sizes: ["16", "18", "20"],
+    sizes: ["16\"", "18\"", "20\""],
     colors: ["White Gold", "Yellow Gold", "Rose Gold"],
     images: [
       "https://images.unsplash.com/photo-1515562141127-7a88fb7b3380?w=800&q=80",

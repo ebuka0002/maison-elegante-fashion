@@ -114,7 +114,7 @@ const Footer = () => {
           transition={{ duration: 0.8, delay: 0.5 }}
         >
           <p className="text-luxury-light-gray text-xs font-sans">
-            © 2024 Maison Élégance. All rights reserved.
+            © 2026 Ebuka's Maison Élégance. All rights reserved.
           </p>
           <div className="flex gap-8">
             <span className="text-luxury-light-gray text-xs font-sans hover:text-luxury-gold cursor-pointer transition-colors">

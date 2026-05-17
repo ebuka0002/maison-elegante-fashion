@@ -105,8 +105,8 @@ export const products = [
     sizes: ["50ml", "100ml"],
     colors: ["Midnight"],
     images: [
-      "https://images.unsplash.com/photo-1590736969955-71cc94901144?w=800&q=80",
-      "https://images.unsplash.com/photo-1615634260167-c8cdede054de?w=800&q=80",
+      "https://unsplash.com/photos/calvin-klein-one-perfume-bottle-sjzg6LZCOXI",
+      "https://unsplash.com/photos/calvin-klein-one-perfume-bottle-sjzg6LZCOXI",
     ],
     isNew: true,
     isBestseller: false,
@@ -342,7 +342,7 @@ export const featuredCollections = [
     id: 2,
     title: "Fragrance House",
     subtitle: "Signature Scents",
-    image: "https://images.unsplash.com/photo-1541643600914-78a084683566?w=800&q=80",
+    image: "https://unsplash.com/photos/a-bottle-of-perfume-sitting-on-top-of-a-bed-t-dPNgQlHPo",
     link: "/shop?category=perfumes",
   },
   {

@@ -342,7 +342,7 @@ export const featuredCollections = [
     id: 2,
     title: "Fragrance House",
     subtitle: "Signature Scents",
-    image: "https://unsplash.com/photos/a-bottle-of-perfume-sitting-on-top-of-a-bed-t-dPNgQlHPo",
+    image: "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?w=800&q=80",
     link: "/shop?category=perfumes",
   },
   {

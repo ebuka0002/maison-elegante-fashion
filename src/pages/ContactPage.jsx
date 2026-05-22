@@ -243,7 +243,7 @@ const ContactPage = () => {
               animate={boutiquesInView ? { opacity: 1 } : {}}
               transition={{ duration: 0.8, delay: 0.5 }}
             >
-              Visiting us in person
+              Visit us in person
             </motion.p>
           </div>
 
